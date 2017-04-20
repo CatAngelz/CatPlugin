@@ -1,0 +1,43 @@
+name: CatPlugin
+main: me.catangelz.plugin.CatPlugin
+version: 0.1
+description: >
+             Cat Plugin.
+depend: [NoteBlockAPI]             
+commands:
+  test:
+    description: test plugin!
+  gamemode:
+    description: Change Gamemode!
+  gm:
+    description: Shortcut!
+  csay:
+    description: Say!
+  ctp:
+    description: Teleport!
+  wdr:
+    description: Command!
+  watchdogreport:
+    description: Command!
+  heal:
+    description: heal!
+  cstop:
+    description: stop!
+  plugin:
+    description: plugin!
+  pl:
+    description: plugin!
+  ping:
+    description: Ping!
+  ctitle:
+    description: Title!
+  music:
+    description: Play music!
+  pos:
+    description: pos!
+  position:
+    description: pos!
+  sk:
+    description: sk!
+  color:
+    description: all color!
